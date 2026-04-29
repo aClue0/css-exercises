@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #e99494;
+    font: "CascadiaCode", "Dejavu Sans", sans-serif;
+}
+
+#second {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #acffac;
+    font-weight: bold;
+}
